@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Doancuoiki": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\mynga\\Downloads\\Doancuoiki\\Doancuoiki\\Doancuoiki\\bin\\Debug\\net5.0-windows\\Doancuoiki.exe"
+    }
+  }
+}
